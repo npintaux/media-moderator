@@ -1,0 +1,26 @@
+{
+  "name": "media-moderator",
+  "version": "1.0.0",
+  "description": "A small web server calling two different Logic Apps based on the request path.",
+  "main": "media-moderator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npintaux/media-moderator.git"
+  },
+  "keywords": [
+    "LogicApp",
+    "Media"
+  ],
+  "author": "Nicolas Pintaux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npintaux/media-moderator/issues"
+  },
+  "homepage": "https://github.com/npintaux/media-moderator#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
